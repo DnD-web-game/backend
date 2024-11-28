@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: DnDserver
+
+  flyway:
+    enabled: false
+
+  liquibase:
+    enabled: false
